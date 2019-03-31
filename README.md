@@ -21,3 +21,6 @@ The program generates and solves 25 distinct 9-puzzle problems using a search al
 6.A*
 
 Finally, the program prints out the trace of one of the 25 puzzles.
+
+Note: the problem was an assignment in CS461 (Artificial Intelligence) course at Bilkent in Spring 2018-19
+All the algorithms are based on Prof. Winston's book Artifical Intelligence.
